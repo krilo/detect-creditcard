@@ -1,0 +1,29 @@
+{
+  "name": "detect-creditcard",
+  "version": "1.0.0",
+  "description": "Detects credit card type from number",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Kristofer Forsell",
+    "email": "kristofer@your-majesty.com",
+    "url": "https://github.com/krilo"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "creditcard",
+    "detect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krilo/detect-creditcard.git"
+  },
+  "homepage": "https://github.com/krilo/detect-creditcard",
+  "bugs": {
+    "url": "https://github.com/krilo/detect-creditcard/issues"
+  }
+}
